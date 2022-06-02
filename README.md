@@ -11,7 +11,8 @@
  <ul>
    <li>IoT Research dan Web Programming</li>
    <li>Arduino Project</li>
-   <li>Robotik</li>
+   <li>Robotic</li>
+   <li>Android Developer</li>
 </ul>
 
 
