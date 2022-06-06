@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> TENTANG SAYA
 </head>
 <body>
  
@@ -13,7 +13,7 @@
    <li>Arduino Project</li>
    <li>Robotic</li>
    <li>Android Developer</li>
-</ul>
+ </ul>
 
 
 </body>
